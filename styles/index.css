@@ -1,3 +1,13 @@
+h1 {
+    color: #6da303; 
+    font-size: 50px;
+    text-align: central;
+}
+h2{
+    color:rgba(26, 119, 5, 1);
+    background-color: #ff9800b5;
+}
+
 h2 {
     color:green;
     font-size: 30px;
@@ -6,14 +16,21 @@ h2 {
     text-align: center;
     background-color: orange;
     box-shadow: 10px 10px 20px sienna;
+}
 
+.h3 .fifth paragraph {
+    color:#dc2be2;
 }
 
 h1{
     opacity: 0.7;
 }
-#forth-paragraph {
+#fifth-paragraph h3 {
     color:sienna;
+}
+
+#fifth-paragraph p {
+    color:rgb(220, 43, 226);
 }
 
 p {
